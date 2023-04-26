@@ -7,10 +7,10 @@ This is a simple README.md file. It aims to show the version control capability 
 
 ## __Table of Contents__
 
-- [Installation]()
-- [Usage]()
-- [Contribution]()
-- [License]()
+- [Installation](###Installation__)
+- [Usage](###Usage)
+- [Contribution](###Contribution)
+- [License](###License)
 
 ### __Installation__
 
@@ -56,8 +56,11 @@ This project is licensed under the [insert license type here] license. See the L
 
 Thank you to the following contributors who have helped to improve this project:
 
-| Tables                           | Email    | Phone |
-| -------------------------------- |:--------:| -----:|
-| Shahirul Islam Polak             |          |       |
-| Badhan Saha                      |          |       |
-| Antu Acharjee                    |          |       |
+| Tables                           | Email                           | Phone            |
+| -------------------------------- |:-------------------------------:| ----------------:|
+| Shahirul Islam Polak             | shahirul.islam@bjitacademy.com  |  +8801958475435  |
+| Badhan Saha                      | badhan.saha@bjitacademy.com     |  +8801958475435  |
+| Antu Acharjee                    | antu.acharjee@bjitacademy.com   |  +8801958475435  |
+| Tashdid Alam                     | tashdid.alam@bjitacademy.com    |  +8801958475435  |
+| Nafiur Rashid                    | nafiur.rashid@bjitacademy.com   |  +8801958475435  |
+| Nazmul Islam                     | nazmul.islam@bjitacademy.com    |  +8801958475435  |
