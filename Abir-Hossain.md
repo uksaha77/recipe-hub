@@ -37,7 +37,7 @@ Contributions to this project are welcome! To contribute, follow these steps:
 6. Create a pull request to merge your changes back into the __`main`__ branch.
 
 ## License
-This project is licensed under the MIT license. See the [LICENSE.md]() file for details.
+This project is licensed under the MIT license. See the [<u>LICENSE.md</u>]() file for details.
 
 ## Contributor
 
@@ -45,6 +45,6 @@ Thank you to the following contributors who have helped to improve this project:
 
 | Name          | Email           | Phone  |
 | ------------- |:-------------:| -----:|
-| Abir Hossain      | abir.hossain@bjitacademy.com | 01989052862 |
+| Abir Hossain      | abir.hossain@bjitacademy.com | 89393764162 |
 | Nazmul Islam      | nazmul.islam@bjitacademy.com      |   12345678910 |
 | Fazle Mubin | fazle.mubin@bjitacademy.com      |    98765432109 |
