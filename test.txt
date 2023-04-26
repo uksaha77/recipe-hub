@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 this is the modified file
 another line
-=======
 HEY ! I AM NAHID.
 hello World
 hello World From Sadia Nishat from nishat branch.
->>>>>>> 3495a4b77408a8d8f99f096baccfc7f10cf564a3
