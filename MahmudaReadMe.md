@@ -2,15 +2,15 @@
 This project is called Practice Project. It aims to only for practice purpose.
 
 ## Table of Contents
-1. Installation
-2. Usage
-3. Contributing
-4. License
+- Installation
+- Usage
+- Contributing
+- License
 
 ## Installation
 To install this project, follow these steps:
-1. Clone the repository to your local machine using __git clone
-https://github.com/yourusername/your-repository.git.__
+1. Clone the repository to your local machine using 
+'git clone https://github.com/yourusername/your-repository.git.'
 2. Navigate to the project directory using __cd your-repository.__
 3. Run the command __npm install__ to install the necessary dependencies.
 
