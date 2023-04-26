@@ -14,7 +14,8 @@ To install this project, follow these steps:
 1. Clone the repository to your local machine using  <b><small> git clone </small> </b> 
  <b><small> https://github.com/yourusername/your-repository.git</small> </b>.
 1. Navigate to the project directory using <b><small>cd your-repository</small> </b>.
-2. Run the command npm install to install the necessary dependencies.
+
+2. Run the command <b><small>npm install</small> </b> to install the necessary dependencies.
 
 ## Usage
 To use this project, follow these steps:
@@ -27,12 +28,12 @@ To use this project, follow these steps:
 Contributions to this project are welcome! To contribute, follow these steps:
 
 1. Fork the repository to your own Github account.
-2. Create a new branch from the <b><small>main branch</small> </b> with a descriptive name using <b><small>git
+2. Create a new branch from the <b><small>main </small> </b> branch with a descriptive name using <b><small>git
 checkout -b your-branch-name</small> </b>.
 3. Make changes to the code on your branch.
-4. Commit your changes using git commit -m "Your commit message here".
+4. Commit your changes using <b><small>git commit -m "Your commit message here"</small> </b>.
 5. Push your changes to your branch using <b><small>git push origin your-branch-name</small> </b>.
-6. Create a pull request to merge your changes back into the main branch.
+6. Create a pull request to merge your changes back into the <b><small>main</small> </b> branch.
 
 ## License
 This project is licensed under the [insert license type here] license. See the 
