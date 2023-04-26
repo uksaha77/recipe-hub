@@ -2,7 +2,7 @@
 This project is called Sadia Nishat. It aims to show the installation,usage,contributing and licence process of git and github.
 
 ## Table of contents
- - <u>[Installation](google.com)</u>
+ - [Installation](google.com)
  - [Usage](google.com)
  - [Contributing](google.com)
  - [Licence](google.com)
