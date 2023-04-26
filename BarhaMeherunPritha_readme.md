@@ -3,10 +3,10 @@
 This project is called [insert project name here]. It aims to [insert project goal here].
 
 ## Table of Contents
-- [Installation]
-- [Usage]
-- [Contributing]
-- [License]
+- [Installation]()
+- [Usage]()
+- [Contributing]()
+- [License]()
 
 ## Installation
 
@@ -37,7 +37,7 @@ Contributions to this project are welcome! To contribute, follow these steps:
 
 ## License
 
-This project is licensed under the [insert license type here] license. See the [LICENSE.md] file for details.
+This project is licensed under the [insert license type here] license. See the [LICENSE.md]() file for details.
 
 ## Contributors
 
