@@ -56,6 +56,7 @@ Contributors
 
 Thank you to the following contributors who have helped to improve this project:
 |Name| Email | Phone |
+| ------- | ------------------------ | ----------- |
 |Farzana| farzana.rahman@bjitacademy.com | 0195********** |
 |tina| xyz@gmail.com | 0165********** |
 
