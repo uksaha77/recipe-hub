@@ -1,4 +1,4 @@
-# Project Name
+# Recipe Hub
 
 This project is called **recipe-hub**. It aims to **Collect all the Recipes in the world**.
 
