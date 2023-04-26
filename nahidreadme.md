@@ -1,5 +1,5 @@
-# Project Name
-This project is called [insert project name here]. It aims to [insert project goal here].
+# Recipe HUb
+This project is called Recipehub. It aims to sell different types of food.
 ## Table of Contents
 - [Installation](https://www.example.com)
 - [Usage](https://www.example.com)
@@ -7,8 +7,7 @@ This project is called [insert project name here]. It aims to [insert project go
 - [License](https://www.example.com)
 ## Installation
 To install this project, follow these steps:
-1. Clone the repository to your local machine using **git clone
-https://github.com/yourusername/your-repository.git**
+1. Clone the repository to your local machine using **git clone https://github.com/yourusername/your-repository.git**
 2. Navigate to the project directory using **cd your-repository.**
 3. Run the command **npm install** to install the necessary dependencies.
 ## Usage
@@ -19,8 +18,7 @@ To use this project, follow these steps:
 ## Contributing
 Contributions to this project are welcome! To contribute, follow these steps:
 1. Fork the repository to your own Github account.
-2. Create a new branch from the **main** branch with a descriptive name using **git
-checkout -b your-branch-name.**
+2. Create a new branch from the **main** branch with a descriptive name using **git checkout -b your-branch-name.**
 3. Make changes to the code on your branch.
 4. Commit your changes using **git commit -m "Your commit message here".**
 5. Push your changes to your branch using **git push origin your-branch-name.**
