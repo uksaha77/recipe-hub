@@ -37,6 +37,7 @@ This project is licensed under the [insert license type here] license. See the
 Thank you to the following contributors who have helped to improve this project:
 
 | Name | Email | Phone |
+| ------- | ------------------------ | ----------- |
 |Mahmuda Akter | mahmudakeya013@gmail.com | +8801######### |
 |Ujjal k. Saha | ujjal.kumer@gmail.com | +8801######### |
 |Farzana | farzana@gmail.com | +8801######### |
