@@ -2,10 +2,10 @@
 This project is called Practice Project. It aims to only for practice purpose.
 
 ## Table of Contents
-- __Installation__
-- __Usage__
-- __Contributing__
-- __License__
+- [Installation](https://docs.github.com/en)
+- [Usage](https://docs.github.com/en)
+- [Contributing](https://docs.github.com/en)
+- [License](https://docs.github.com/en)
 
 ## Installation
 To install this project, follow these steps:
