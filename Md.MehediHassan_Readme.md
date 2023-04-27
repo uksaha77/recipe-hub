@@ -14,7 +14,11 @@ This project is called [recipe-hub]. It aims to [insert project goal here].
 
 To install this project, follow these steps:
 
+<<<<<<< HEAD
 1. Clone the repository to your local machine using `https://github.com/uksaha77/recipe-hub.git`.
+=======
+1. Clone the repository to your local machine using `git clone https://github.com/yourusername/your-repository.git`.
+>>>>>>> a25b1ec07879136276de21dfa60e631c2b36f19f
 2. Navigate to the project directory using `cd your-repository`.
 3. Run the command `npm install` to install the necessary dependencies.
 
