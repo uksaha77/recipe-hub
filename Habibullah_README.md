@@ -1,7 +1,17 @@
+
 # AirEasy 
 
 AirEasy is a web-based platform for managing rental properties in the USA. It is similar to AirDna in that it allows property owners to manage their listings and 
 reservations, and provides data-driven insights to help them optimize their rental business.
+
+## Features
+Property Management: AirEasy allows property owners to create and manage listings for their rental properties. They can add photos, descriptions, and pricing information for each listing.
+
+Reservation Management: AirEasy provides a centralized platform for managing reservations and guest communications. Property owners can view upcoming reservations, communicate with guests, and accept or decline reservation requests.
+
+Data Analytics: AirEasy provides data-driven insights to help property owners optimize their rental business. This includes occupancy rates, revenue reports, and recommendations for pricing and marketing strategies.
+This project is called AirEasy, similar to AirDna, and aims to manage Rental Property Management for the USA client and Property Owner.
+
 
 ## Table of Contents
 
@@ -14,6 +24,7 @@ reservations, and provides data-driven insights to help them optimize their rent
 - [Author](#author)
 - [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
+
 
 ## Installation
 
@@ -46,6 +57,7 @@ This project is called AirEasy, similar to AirDna, and aims to manage Rental Pro
 
 **Server:** Node, Express, 
 
+
 ## Contributing
 
 Contributions to this project are welcome! To contribute, follow these steps:
@@ -65,6 +77,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 ## Author
 
 - [@mhabibullahhs](https://github.com/mhabib1234)
+
 
 ## Contributors
 
