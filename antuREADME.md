@@ -42,3 +42,5 @@ Thank you to the following contributors who have helped to improve this project:
 | Antu Acharjee  | antu.acharjee@bjitacademy.com  |12312332  |
 | Nafiur Rashid | nafiur.rashid@bjitacademy.com  |387344769|
 |Badhan Saha|badhan.saha@bjitacademy.com|459837012|
+|Tashdid alam|tashdid@bjitacademy.com|740238341248239489|
+|Badhan Saha|badhan.saha@bjitacademy.com|459837012|
