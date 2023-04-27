@@ -54,8 +54,8 @@ This project is licensed under the [insert license type here] license. See the L
 
 Thank you to the following contributors who have helped to improve this project:
 
-| Tables                           | Email    | Phone |
-| -------------------------------- |:--------:| -----:|
-| Arup Chakroborty             |          |       |
-| Ahsan khan                   |          |       |
-| Arif akmol                   |          |       |
+| Tables                       | Email    | Phone |
+| -----------------------------|:--------:| -----:|
+| Arup Chakroborty             |arup@gmail.com          |45454       |
+| Ahsan khan                   |ahsan@gmail.com         |455454      |
+| Arif akmol                   |ashik@gmail.com         |89787896     |
