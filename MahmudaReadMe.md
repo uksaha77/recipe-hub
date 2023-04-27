@@ -5,7 +5,7 @@ This project is called Practice Project. It aims to only for practice purpose.
 - <a href="https://www.example.com">Installation</a>
 - <a href="https://www.example.com">Usage</a>
 - <a href="https://www.example.com">Contributing</a>
-- <a href="https://www.example.com">License</a>
+- [License](https://docs.github.com/en)
 
 ## Installation
 To install this project, follow these steps:
