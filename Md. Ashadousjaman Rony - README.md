@@ -29,10 +29,11 @@ This project is licensed under the MIT license. See the [LICENSE.md]() file for 
 ## Contributors
 Thank you to the following contributors who have helped to improve this project:
 
--------------------------------
-| Name | Email | Phone |
-|-------------|-------|--------
-| Md. Rony | ashadousjaman.rony@example.com | +8801234-567891 |
-| Sarafat Haque | sarafat.haque@example.com | +8801224-345345 |
-| Rabiul Islam | rabiul.islam@example.com | +8801235-432342 |
--------------------------------
+--------------------------------------------------------------------
+| Name          | Email                          | Phone           |
+|---------------|--------------------------------|------------------
+| Md. Rony      | ashadousjaman.rony@example.com | +8801234-567891 |
+| Sarafat Haque | sarafat.haque@example.com      | +8801224-345345 |
+| Rabiul Islam  | rabiul.islam@example.com       | +8801235-432342 |
+| Fardin Naim   | fardin.naim@example.com        | +8801232-643532 |
+--------------------------------------------------------------------
