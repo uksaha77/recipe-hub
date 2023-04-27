@@ -56,7 +56,7 @@ Top with chopped tomatoes, peppers, and olives. Drizzle the vegetables liberally
 
 ## License
 This project is licensed under the license. See the 
-JubayerBinHedayet.md file for details.
+[JubayerBinHedayet.md](https://github.com/uksaha77/recipe-hub) file for details.
 
 | Name | Email | Phone| 
 | ------ | ------ | ------|
