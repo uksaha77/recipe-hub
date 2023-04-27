@@ -1,4 +1,4 @@
-# Project Name
+# My First Task
 
 This project is called [My First Task]. It aims to [insert project goal here].
 
@@ -45,8 +45,9 @@ This project is licensed under the [insert license type here] license. See the `
 
 Thank you to the following contributors who have helped to improve this project:
 
-| Name                 | Email                                 | Phone       |
-| ------------------   | --------------------------------------| ------------|
-| Ullash Bhattacharjee   ullash.bhattacharjee@bjitacademy.com  |  012120139212 |             
+| Name                 | Email                                 | Phone         |
+| ------------------   | --------------------------------------| --------------|
+| Ullash Bhattacharjee | ullash.bhattacharjee@bjitacademy.com  |  012120139212 |             
 | Mehedi Hasan         | mehedi@bjitacademy.com                |  012120311921 |
 | Habib Howlader       | habib@bjitacademy.com                 |  012123019212 |
+| Sajal Haldar         | sajal@bjitacademy.com                 |  012123019212 |
