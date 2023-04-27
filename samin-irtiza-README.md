@@ -4,10 +4,11 @@ This project is called **recipe-hub**. It aims to **Collect all the Recipes in t
 
 ## Table of Contents
 
-- [Installation](https://localhost:8080)
-- [Usage](https://localhost:8080)
-- [Contributing](https://localhost:8080)
-- [License](https://localhost:8080)
+- [<u>Installation</u>](#installation)
+- [<u>Usage</u>](#Usage)
+- [<u>Contributing</u>](#contributing)
+- [<u>License</u>](#license)
+- [<u>Contributors</u>](#contributors)
 
 ## Installation
 To install this project, follow these steps:
@@ -30,9 +31,11 @@ Contributions to this project are welcome! To contribute, follow these steps:
 5. Push your changes to your branch using **git push origin your-branch-name**.
 6. Create a pull request to merge your changes back into the **main** branch
 
+> **<span style="color:yellow">!! ALL COMMITS SHOULD BE SIGNED OFF BY THE AUTHOR !!</span>**
+
 ## License
 This project is licensed under the MIT license. See the 
-[LICENSE.md]() file for details.
+[LICENSE.md](./LICENSE.md) file for details.
 
 ## Contributors
 Thank you to the following contributors who have helped to improve this project:
