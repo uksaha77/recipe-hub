@@ -62,7 +62,7 @@ Thank you to the following contributors who have helped to improve this project:
 | Name        | Email           | Phone  |
 | ------------- |:-------------:| -----:|
 | Farzana Rahman      | farzana.rahman@bjitacademy.com | 0171698**** |
-| Tina Dewan      | xyz@gmail.com      |   019******** |
+| Tina Dewan      | xyz@gmail.com      |   0167******** |
 
 [1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
 
