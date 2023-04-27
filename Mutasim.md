@@ -33,6 +33,8 @@ Thank you to the following contributors who have helped to improve this project:
 | Name |	Email |	Phone |
 |-----|-----|----|
 Muhammad Mutasim Billah |mutasim.billah@bjitacademy.com|01660245564|
-Contributor 1|-----|----|	
-Contributor 2	 |------|------|
+Contributor 1|nobody@fakeemail.com|132324324|	
+Contributor 2	 |somebody@somewhere.com|3854897534|
+
+##### Copyright &copy; BJIT Academy 2030
 
