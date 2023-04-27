@@ -5,7 +5,7 @@ This project is called **recipe-hub**. It aims to **Collect all the Recipes in t
 ## Table of Contents
 
 - [<u>Installation</u>](#installation)
-- [<u>Usage</u>](#Usage)
+- [<u>Usage</u>](#usage)
 - [<u>Contributing</u>](#contributing)
 - [<u>License</u>](#license)
 - [<u>Contributors</u>](#contributors)
