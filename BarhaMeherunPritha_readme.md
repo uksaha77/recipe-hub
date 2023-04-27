@@ -13,7 +13,11 @@ This project is called [insert project name here]. It aims to [insert project go
 To install this project, follow these steps:
 
 1. Clone the repository to your local machine using `git clone https://github.com/yourusername/your-repository.git.`
+<<<<<<< HEAD
 2. Navigate to the project directory using `cd your-repository.` 
+=======
+2. Navigate to the project directory using `cd your-repository.`
+>>>>>>> 73a9d43221ac1e8035aaddaf544dd9d55b0e0b85
 3. Run the command `npm install` to install the necessary dependencies.
 
 ## Usage
