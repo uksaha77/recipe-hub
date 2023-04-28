@@ -13,8 +13,11 @@ The application includes the following features:
 - Users can view and search for recipes created by other users.
 - Users can like and comment on recipes.
 - Admin users can manage users and delete inappropriate content.
+<<<<<<< HEAD
 
 ## Contributors
 |Name | Email | Phone |
 |-----|-------|-------|
 |Trainee1|Email1|01610000000|
+=======
+>>>>>>> 4b63cc5f92c38ff5f1810871db6fff1de7ff6cad
