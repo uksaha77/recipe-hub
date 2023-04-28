@@ -55,3 +55,6 @@ Thank you to the following contributors who have helped to improve this project:
 | Abir Hossain  | abir.hossain@bjitacademy.com  | 01676151551 |
 |               |                               |             |
 |               |                               |             |
+|               |
+|               |
+| Nazmul Pranto | nazmul.pranto@bjitacademy.com | 01676123456 |
