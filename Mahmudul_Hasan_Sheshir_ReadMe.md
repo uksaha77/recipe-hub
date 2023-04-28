@@ -19,7 +19,7 @@ To install this project, follow these steps:
 
 To use this project, follow these steps:
 
-1. Navigate to the project directory using `cd your-repository`
+1. Navigate to the project directory using `cd recipe-hub`
 2. Run the command `npm start` to start the project
 3. Open a web browser and go to `http://localhost:3000` to view the project.
 
@@ -29,7 +29,7 @@ Contributions to this project are welcome! To contribute, follow these steps:
 
 1. Fork the repository to your own Github account.
 2. Create a new branch from the `main` branch with a descriptive name using `git
-checkout -b your-branch-name`.
+checkout -b sheshir`.
 3. Make changes to the code on your branch.
 4. Commit your changes using `git commit -m "Your commit message here"`.
 5. Push your changes to your branch using `git push origin your-branch-name`.
@@ -47,3 +47,4 @@ Thank you to the following contributors who have helped to improve this project:
 |----------------|-----------------|------------------|
 | Atiqul Islam | atiqul.islam@bjitacademy.com | 0171935784 |
 |Tashdid Alam  | tashdid.alam@bjitacademy.com | 0126565644 |
+|Mohammod Mustasim Billah| mustasim.billah@bjitacademy.com|54515454155 |
