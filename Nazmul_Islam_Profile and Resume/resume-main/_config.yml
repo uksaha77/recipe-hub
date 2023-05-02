@@ -1,0 +1,134 @@
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Nazmul Islam
+title: Trainee DevOps and Cloud Engineering
+email: nazmulislam76bd@gmail.com
+website: https://nazmul-islam76.github.io/resume/
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username:  nazmul-islam76
+
+
+# Additional icon links
+additional_links:
+- title: discord
+  icon: fab fa-discord (https://fontawesome.com/icons/discord?f=brands&s=solid)
+  url:  https://discord.com/users/765420390041387058
+  
+- title: facebook
+  icon: fab fa-facebook (https://fontawesome.com/icons/facebook?f=brands&s=solid)
+  url: https://www.facebook.com/nazmul.pranto.31/  
+  
+- title: HackerRank
+  icon: fab fa-hackerrank (https://fontawesome.com/icons/hackerrank?f=brands&s=solid)
+  url: https://www.hackerrank.com/nazmulislam76bd
+  
+- title: LeetCode
+  icon: fas fa-globe
+  url: https://leetcode.com/nazmulislam/ 
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Nazmul Islam and I'm a recent Computer Science graduate who is highly motivated and eager to work in a professional setting. An enthusiastic person who is well dedicated to his craft. I am constantly developing and striving to be the best in the field.
+
+  Currently, I am learning <mark>Django</mark>, <mark>React</mark> and also, studying to become a <mark>DevOps and Cloud Engineer</mark>.
+
+content:
+  - title: Projects # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | 
+      **Hotel Management System**
+      
+      This is a simple academic project I have completed under software engineering course using <mark>JAVA</mark> and <mark>MVC</mark> architectural pattern.
+
+       **R-BLOG**
+       
+       A blog-based project using <mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> and <mark>Django</mark> framework. I started this project as a way to learn about <mark>Django</mark>. Currently, working on it to add more features.
+
+       **Buy-It**
+       
+       An E-commerce project mainly based on <mark>Django</mark>, <mark>Bootstrap</mark>, and <mark>JavaScript</mark>. I wanted to learn how an E-commerce website works and try to implement <mark>REST</mark> api in this project.
+        
+       **Surveillance in Maritime Scenario Using Deep-Learning and Swarm Intelligence**
+        
+       This is my thesis project for drone-based rescue operations using swarm algorithm and object detection CNN model.
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: BRAC University
+        link: https://www.bracu.ac.bd/
+        # link_text: boringcompany.com
+        sub_title: Student Tutor
+        caption: June 2021 - April 2022
+        description: | # this will include new lines to allow paragraphs
+            Served as Student Tutor in Artificial Intelligence-(8 months) and Programming Language-(4 months) courses. Tasked with teaching students about basic concepts of artificial intelligence, machine learning, and basics of python and OOP.
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: BRAC University
+        caption: 2018 - 2022
+        sub_title: BSc Computer Science and Engineering
+        description: | # this will include new lines to allow paragraphs
+          During my time at the university, I learned most of my theoretical and practical skills. I also learned about teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learned a lot about a healthy work-life balance.
+
+          I also spent my free time as a *Senior Executive* and was one of the founding members of the *FINACT Club*.
+          
+  - title: Technical Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Programming Language:**
+      - <mark>Python</mark>
+      - <mark>JAVA</mark>
+      - <mark>C++</mark>
+      - <mark>NetLogo</mark>
+      
+      **Structured Query Language:**
+      - <mark>MySQL</mark>
+      
+      **Framework:**
+      - <mark>Django</mark>
+      - <mark>TensorFlow</mark>
+      - <mark>Pytorch</mark>
+      
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Awarded with merit-based scholarship in Brac University (2020 - 2022)
+      - Was one of the founding members of Blazing Youth club, a social activity club during high school
+      - Alongside my interests in technologies and software engineering some of my other interests and hobbies are: Reading, Gaming & Eating
+      
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
