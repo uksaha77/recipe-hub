@@ -5,6 +5,7 @@
  
 <p align="left">I am a passionate tech lover who wants to explore tech arena and contribute to the FOSS.Currently working on DevOPS and cloud, love tinkering with ML when I have free time.</p>
 
+
 ## 👨🏽‍💻 What I'm working on
 - 🔭 I am presently working at BJIT Academy as a Trainee Software Engineer, specializing in DevOps and Cloud. Being a Trainee Software Engineer, I am thrilled about incorporating DevOps culture and continuously strive to expand my experiece by exploring new technologies .
 
@@ -13,6 +14,7 @@
  
 ## 💬 Ask me about **CI/CD, Linux,  Computer Vision, ML**
 <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshihabuddin10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/m0ds0h0ihab) 
